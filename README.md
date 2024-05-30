@@ -1,10 +1,10 @@
-## Genius Tinkercad Circuit 
+# Genius Tinkercad Circuit 
 
-**Visão Geral do Projeto:**
+## Visão Geral do Projeto:
 
 Este projeto tem como objetivo desenvolver uma implementação funcional do popular jogo de memória "Genius" usando Tinkercad Circuits para a disciplina de LIP (Laboratório de Introdução à Programação). O jogo conta com quatro LEDs coloridos e quatro botões correspondentes para a interação do usuário. O objetivo é desafiar a memória dos jogadores apresentando uma sequência de cores que deve ser repetida corretamente pressionando os botões correspondentes.
 
-**Dinâmica do Jogo:**
+## Dinâmica do Jogo:
 
 1. **Inicialização:**
    - O jogo começa piscando uma única cor aleatória de um dos quatro LEDs disponíveis, indicando o início da sequência.
@@ -25,7 +25,7 @@ Este projeto tem como objetivo desenvolver uma implementação funcional do popu
 6. **Progressão de Dificuldade:**
    - A dificuldade do jogo aumenta a cada rodada bem-sucedida, adicionando mais cores à sequência e testando a capacidade de memória do jogador.
 
-**O Circuito no Tinkercad:**
+## O Circuito no Tinkercad:
 
 - O Tinkercad Circuits criado inclui::
   - Quatro LEDs coloridos (vermelho, verde, azul, amarelo)
